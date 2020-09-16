@@ -14,7 +14,7 @@
 ### My Stats !
 
 
-![Vuziree github stats](https://github-readme-stats.vercel.app/api?username=vuzire&count_private=true&show_icons=true?theme=buefy)
+![Vuzire github stats](https://github-readme-stats.vercel.app/api?username=vuzire&count_private=true&show_icons=true?theme=buefy)
 <br />
 <br />
 
