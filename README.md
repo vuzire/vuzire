@@ -1,13 +1,13 @@
-### Hi there, It’s vuzire
+### Hi there, It’s Shelta
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vuzire_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/C_Shelta)
+[![Twitter Follow](https://img.shields.io/twitter/follow/C_Shelta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/C_Shelta)
 
 ## I'm a young Developer !
 
 
 ### contact :
 
-: Shelta#0001 <img align="left" alt="√uzire#0001" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+: Shelta#0001 <img align="left" alt="Shelta#0001" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 <br />
 
