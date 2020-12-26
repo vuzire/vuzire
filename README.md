@@ -5,7 +5,7 @@
 ## I'm a young Developer !
 
 
-### contact :
+### How to contact me?
 
 : vuzire#7237 <img align="left" alt="vuzire#7237" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
