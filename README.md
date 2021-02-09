@@ -18,7 +18,7 @@
 <br />
 <br />
 
-[![Vuzire github stats](https://github-readme-stats.vercel.app/api/top-langs?username=vuzire&theme=dark&langs_count=8&layout=compact)](https://github.com/vuzire)
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=vuzire&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/vuzire)
 
 
 ### Languages and Tools:
