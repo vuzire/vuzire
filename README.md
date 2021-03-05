@@ -1,6 +1,6 @@
 ### Hi there, It’s Vuzire
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/js_vuziree?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/js_vuziree)
+[![Twitter Follow](https://img.shields.io/twitter/follow/js_vuzire?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/js_vuzire)
 
 ## I'm a young Developer !
 
